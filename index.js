@@ -26,7 +26,7 @@ var questions=[{
   answer:"vit",
 },{
   question:"Am I older than 19? ",
-  answer:"no",
+  answer:"yes",
 }]
 
 for (var i =0;i<questions.length;i++){
